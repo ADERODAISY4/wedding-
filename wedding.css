@@ -1,0 +1,27 @@
+body{
+    background-color: burlywood;
+}
+.Wed{
+   display: flex;
+   justify-content: space-evenly;
+}
+.ww{
+   display: flex;
+   justify-content: space-evenly;
+}
+.we{
+   text-align: center;
+}
+.FR{
+    background-color: burlywood;
+    border-radius: 10px;
+    padding: 5px;
+    border: 10px solid rosybrown;
+}
+.fd{
+   background-color: burlywood;
+   border-radius: 10px ;
+   padding: 5px;
+   border: 10px solid rosybrown;
+}
+
